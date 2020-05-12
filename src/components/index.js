@@ -15,7 +15,7 @@ import TagCloud from '@/components/Charts/TagCloud'
 import AvatarList from '@/components/AvatarList'
 import CountDown from '@/components/CountDown'
 import Ellipsis from '@/components/Ellipsis'
-import FooterToolbar from '@/components/FooterToolbar'
+import FooterToolBar from '@/components/FooterToolBar'
 import NumberInfo from '@/components/NumberInfo'
 import DescriptionList from '@/components/DescriptionList'
 import Tree from '@/components/Tree/Tree'
@@ -47,7 +47,7 @@ export {
   Trend,
   CountDown,
   Ellipsis,
-  FooterToolbar,
+  FooterToolBar,
   NumberInfo,
   DescriptionList,
   // 兼容写法，请勿继续使用
